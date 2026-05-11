@@ -3,8 +3,8 @@
   <h1>HK2 Magento PHP 8.2 FPM</h1>
   <b>PHP 8.2 FPM Docker environment specifically optimized for Magento 2.4.6 and above.</b><br><br>
 
-  <img src="https://img.shields.io/badge/version-2.1-blue?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/Magento-2.4.8-blue?style=flat-square" alt="Magento Version">
+  <img src="https://img.shields.io/badge/version-2.0-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Magento-2.4.6-blue?style=flat-square" alt="Magento Version">
   <img src="https://img.shields.io/badge/PHP-8.2-blue?style=flat-square" alt="PHP Version">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/license-OSL--3.0-green?style=flat-square" alt="License">
